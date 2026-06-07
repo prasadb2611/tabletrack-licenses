@@ -1,5 +1,5 @@
    {
      "hotels": {
-       "TT-9QTP-673U-DS2U": { "active": false, "name": "Sunrise Hotel", "expires": "2026-12-31" }
+       "TT-9QTP-673U-DS2U": { "active": true, "name": "Sunrise Hotel", "expires": "2026-12-31" }
      }
    }
