@@ -1,6 +1,5 @@
-   {
-     "hotels": {
-        "TT-F2ZW-V6W9-6P7W": {"active":true,"name":"TableTrack Restaurant","machine":"6DD44AC93DDF"},
- 
-     }
-   }
+{
+  "hotels": {
+    "TT-F2ZW-V6W9-6P7W": { "active": true, "name": "TableTrack Restaurant", "machine": "6DD44AC93DDF" }
+  }
+}
