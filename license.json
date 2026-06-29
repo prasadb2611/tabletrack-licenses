@@ -1,6 +1,6 @@
 {
   "hotels": {
     "TT-F2ZW-V6W9-6P7W": { "active": true, "name": "TableTrack Restaurant", "machine": "6DD44AC93DDF" },
-    "TT-TAJW-E23D-J7UJ": {"active":true,"name":"Sagar Restaurant","machine":"050BAFFC8107"}  
+    "TT-TAJW-E23D-J7UJ": {"active":false,"name":"Sagar Restaurant","machine":"050BAFFC8107"}  
   }
 }
